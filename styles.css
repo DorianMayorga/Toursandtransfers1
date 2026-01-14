@@ -749,8 +749,8 @@ footer {
     }
     
     .logo-icon img {
-        width: 60px;
-        height: 60px;
+        width: 90px;
+        height: 90px;
     }
     
     .logo-main {
@@ -809,7 +809,7 @@ footer {
     }
     
     .hero-content {
-        padding: 20px 15px;
+        padding: 30px 20px;
     }
     
     .hero-content h2 {
@@ -817,6 +817,8 @@ footer {
         margin-bottom: 15px;
         padding-top: 10px;
     }
+
+
     
     .hero-content p {
         font-size: 15px;
