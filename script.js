@@ -330,7 +330,8 @@ document.addEventListener('DOMContentLoaded', () => {
             case 0: images = chichenImages; break;
             case 1: images = tulumImages; break;
             case 2: images = xcaretImages; break;
-            case 3: images = islaImages; break;
+            case 3: images = xelhaImages; break; 
+            case 4: images = islaImages; break;
             default: images = chichenImages;
         }
         
