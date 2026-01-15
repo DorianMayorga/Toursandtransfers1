@@ -821,6 +821,7 @@ footer {
 
     
     .hero-content p {
+        font-size: 15px;
         margin-bottom: 30px !important; /* Fuerza el espacio */
     }
     
